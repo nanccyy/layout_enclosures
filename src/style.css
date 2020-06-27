@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+.blue-box {
+  padding: 10px;
+  background-color: rgb(48, 141, 192);
+  border: 1px solid rgb(231, 85, 81);
+  width: 328px;
+  margin: 20px 0 40px 12px;
+}
+
+.yellow-box {
+  padding: 10px;
+  background-color: rgb(255, 165, 0);
+  border: 1px solid rgb(231, 85, 81);
+}
+
+.gray-box {
+  background-color: rgb(221, 221, 221);
+  border: 1px solid rgb(231, 85, 81);
+  padding: 10px;
+  margin: 10;
+}
